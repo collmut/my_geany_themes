@@ -8,5 +8,5 @@ Simply download the theme .conf file and place it in the geany colorschemes dire
 
 ![screenshot](dark-lue/dark-lue.png)
 ![screenshot](grey8/grey8.png)
-![screenshot](blude/blude.jpg)
+![screenshot](blude/screenshot.jpg)
 
