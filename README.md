@@ -6,10 +6,17 @@ Failure to check versions or install theme that is incompatible with your geany 
 Pick the theme directory you want.
 Simply download the theme .conf file and place it in the geany colorschemes directory.
 
+<br>
+<br>
+
 Dark lue
 ![screenshot](dark-lue/dark-lue.png)
+<br>
+
 Grey8
 ![screenshot](grey8/grey8.png)
+<br>
+
 Blude
 ![screenshot](blude/screenshot.jpg)
-
+<br>
